@@ -1,0 +1,6 @@
+[29.12.2023 08:35:31]    Server "feever" starts listen on 192.168.0.103:65432
+[29.12.2023 08:36:08]    Client 192.168.0.104:45084 has connected to server "feever"
+[29.12.2023 08:36:14]    Server "feever" starts executing command help
+[29.12.2023 08:36:14]    Server "feever" has gave help menu
+[29.12.2023 08:36:19]    Server "feever" starts executing command getpid
+[29.12.2023 08:36:19]    Server "feever" has gave his pid

@@ -1,0 +1,16 @@
+[29.12.2023 04:16:45]    Server "servak" starts listen on 127.0.0.1:65432
+[29.12.2023 04:17:05]    Client 127.0.0.1:58360 has connected to server "servak"
+[29.12.2023 04:17:24]    Server "servak" starts executing command help
+[29.12.2023 04:17:24]    Server "servak" has gave help menu
+[29.12.2023 04:17:33]    Server "servak" starts executing command getpid
+[29.12.2023 04:17:33]    Server "servak" has gave his pid
+[29.12.2023 06:00:33]    Server "servak" starts listen on 192.168.0.103:65432
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 06:00:46]    Server "servak" starts listen on 192.168.0.103:65432
+[29.12.2023 06:01:52]    Client 192.168.0.104:40992 has connected to server "servak"
+[29.12.2023 06:01:57]    Server "servak" starts executing command help
+[29.12.2023 06:01:57]    Server "servak" has gave help menu
+[29.12.2023 06:02:00]    Server "servak" starts executing command getpid
+[29.12.2023 06:02:00]    Server "servak" has gave his pid

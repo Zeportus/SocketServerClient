@@ -1,0 +1,276 @@
+[29.12.2023 03:28:58]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:29:10]    Client 127.0.0.1:36992 has connected to server "test"
+[29.12.2023 03:29:13]    Server "test" starts executing command help
+[29.12.2023 03:29:13]    Server "test" has gave help menu
+[29.12.2023 03:29:17]    Server "test" starts executing command moninfo
+[29.12.2023 03:29:17]    Server "test" has gave monitor info
+[29.12.2023 03:29:23]    Client socket 127.0.0.1:36992 has closed
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:34:42]    Server "test" starts listen on 127.0.0.1:65431
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:35:32]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:36:25]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:36:35]    Server "test" socket has closed
+[29.12.2023 03:36:35]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:41:36]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:41:47]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:41:54]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:42:04]    Client 127.0.0.1:48824 has connected to server "test"
+[29.12.2023 03:42:18]    Client socket 127.0.0.1:48824 has closed
+[29.12.2023 03:42:26]    Client 127.0.0.1:45532 has connected to server "test"
+[29.12.2023 03:42:32]    Server "test" starts executing command help
+[29.12.2023 03:42:32]    Server "test" has gave help menu
+[29.12.2023 03:42:46]    Server "test" starts executing command help
+[29.12.2023 03:42:46]    Server "test" has gave help menu
+[29.12.2023 03:42:55]    Client 127.0.0.1:51358 has connected to server "test"
+[29.12.2023 03:42:59]    Server "test" starts executing command help
+[29.12.2023 03:42:59]    Server "test" has gave help menu
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:45:18]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:45:51]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:47:29]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:47:42]    Client 127.0.0.1:45910 has connected to server "test"
+[29.12.2023 03:47:51]    Server "test" starts executing command help
+[29.12.2023 03:47:51]    Server "test" has gave help menu
+[29.12.2023 03:47:55]    Client socket 127.0.0.1:45910 has closed
+[29.12.2023 03:47:58]    Client 127.0.0.1:38624 has connected to server "test"
+[29.12.2023 03:48:00]    Server "test" starts executing command help
+[29.12.2023 03:48:00]    Server "test" has gave help menu
+[29.12.2023 03:48:02]    Server "test" starts executing command help
+[29.12.2023 03:48:02]    Server "test" has gave help menu
+[29.12.2023 03:48:09]    Client 127.0.0.1:41942 has connected to server "test"
+[29.12.2023 03:48:11]    Server "test" starts executing command help
+[29.12.2023 03:48:11]    Server "test" has gave help menu
+[29.12.2023 03:48:13]    Server "test" starts executing command help
+[29.12.2023 03:48:13]    Server "test" has gave help menu
+[29.12.2023 03:48:16]    Client socket 127.0.0.1:41942 has closed
+[29.12.2023 03:48:22]    Client 127.0.0.1:39588 has connected to server "test"
+[29.12.2023 03:48:23]    Server "test" starts executing command help
+[29.12.2023 03:48:23]    Server "test" has gave help menu
+[29.12.2023 03:48:29]    Client socket 127.0.0.1:38624 has closed
+[29.12.2023 03:48:34]    Server "test" starts executing command help
+[29.12.2023 03:48:34]    Server "test" has gave help menu
+[29.12.2023 03:48:36]    Server "test" starts executing command help
+[29.12.2023 03:48:36]    Server "test" has gave help menu
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:52:02]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:52:07]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:52:18]    Client 127.0.0.1:48992 has connected to server "test"
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:55:19]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:55:26]    Client 127.0.0.1:51822 has connected to server "test"
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 03:58:59]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 03:59:08]    Client 127.0.0.1:37242 has connected to server "test"
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 04:08:32]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 04:08:45]    Client 127.0.0.1:42134 has connected to server "test"
+[29.12.2023 04:08:49]    Server "test" socket has closed
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 04:09:00]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 04:09:06]    Client 127.0.0.1:47190 has connected to server "test"
+[29.12.2023 04:09:12]    Client 127.0.0.1:50580 has connected to server "test"
+[29.12.2023 04:09:17]    Server "test" socket has closed
+[29.12.2023 04:09:17]    Client socket 127.0.0.1:50580 has closed
+[29.12.2023 04:09:21]    Client socket 127.0.0.1:47190 has closed
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 04:10:04]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 04:10:24]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 04:10:29]    Client 127.0.0.1:60870 has connected to server "test"
+[29.12.2023 04:10:32]    Client 127.0.0.1:42498 has connected to server "test"
+[29.12.2023 04:13:31]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 04:13:37]    Client 127.0.0.1:50906 has connected to server "test"
+[29.12.2023 04:16:30]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 04:17:10]    Client 127.0.0.1:33184 has connected to server "test"
+[29.12.2023 04:49:56]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 04:50:09]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 04:50:25]    Client 127.0.0.1:53896 has connected to server "test"
+[29.12.2023 04:50:46]    Server "test" starts executing command help
+[29.12.2023 04:50:46]    Server "test" has gave help menu
+[29.12.2023 04:50:50]    Server "test" starts executing command help
+[29.12.2023 04:50:50]    Server "test" has gave help menu
+[29.12.2023 04:50:55]    Server "test" starts executing command help
+[29.12.2023 04:50:55]    Server "test" has gave help menu
+[29.12.2023 04:59:53]    Server "test" starts listen on 127.0.0.1:65431
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 05:00:04]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 05:00:12]    Client 127.0.0.1:57796 has connected to server "test"
+[29.12.2023 05:02:00]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 05:02:09]    Client 127.0.0.1:57840 has connected to server "test"
+[29.12.2023 05:08:33]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 05:08:39]    Client 127.0.0.1:39974 has connected to server "test"
+[29.12.2023 05:08:47]    Server "test" starts executing command help
+[29.12.2023 05:08:47]    Server "test" has gave help menu
+[29.12.2023 05:08:57]    Server "test" starts executing command moninfo
+[29.12.2023 05:08:57]    Server "test" has gave monitor info
+[29.12.2023 05:09:29]    Server "test" starts executing command help
+[29.12.2023 05:09:29]    Server "test" has gave help menu
+[29.12.2023 05:33:15]    Server "test" starts listen on 192.168.0.103:65431
+[29.12.2023 05:40:02]    Server "test" starts listen on 127.0.0.1:65431
+[29.12.2023 05:42:12]    Client 127.0.0.1:60164 has connected to server "test"
+[29.12.2023 05:43:54]    Client 127.0.0.1:49036 has connected to server "test"
+[29.12.2023 05:45:10]    Client 127.0.0.1:52620 has connected to server "test"
+[29.12.2023 05:45:11]    Server "test" starts executing command help
+[29.12.2023 05:45:11]    Server "test" has gave help menu
+[29.12.2023 05:45:14]    Server "test" starts executing command moninfo
+[29.12.2023 05:45:14]    Server "test" has gave monitor info
+[29.12.2023 05:45:18]    Server "test" starts executing command 12
+[29.12.2023 05:46:39]    Client 127.0.0.1:56234 has connected to server "test"
+[29.12.2023 05:46:41]    Server "test" starts executing command help
+[29.12.2023 05:46:41]    Server "test" has gave help menu
+[29.12.2023 05:46:48]    Server "test" starts executing command moninfo
+[29.12.2023 05:46:48]    Server "test" has gave monitor info
+[29.12.2023 05:47:00]    Server "test" starts executing command pxlcolor
+[29.12.2023 05:47:00]    Server "test" has gave color of pixel with coords: 12, 23
+[29.12.2023 05:47:22]    Client 127.0.0.1:40614 has connected to server "test"
+[29.12.2023 05:47:24]    Server "test" starts executing command help
+[29.12.2023 05:47:24]    Server "test" has gave help menu
+[29.12.2023 05:47:27]    Server "test" starts executing command moninfo
+[29.12.2023 05:47:27]    Server "test" has gave monitor info
+[29.12.2023 05:47:31]    Server "test" starts executing command pxlcolor
+[29.12.2023 05:47:31]    Server "test" has gave color of pixel with coords: 12, 333
+[29.12.2023 05:49:54]    Client 127.0.0.1:36378 has connected to server "test"
+[29.12.2023 05:49:59]    Server "test" starts executing command help
+[29.12.2023 05:49:59]    Server "test" has gave help menu
+[29.12.2023 05:50:02]    Server "test" starts executing command moninfo
+[29.12.2023 05:50:02]    Server "test" has gave monitor info
+[29.12.2023 05:50:28]    Client 127.0.0.1:36740 has connected to server "test"
+[29.12.2023 05:51:12]    Client 127.0.0.1:58148 has connected to server "test"
+[29.12.2023 05:51:40]    Client 127.0.0.1:33766 has connected to server "test"
+[29.12.2023 05:52:58]    Client 127.0.0.1:39158 has connected to server "test"
+[29.12.2023 05:53:01]    Server "test" starts executing command help
+[29.12.2023 05:53:01]    Server "test" has gave help menu
+[29.12.2023 05:53:04]    Server "test" starts executing command moninfo
+[29.12.2023 05:53:04]    Server "test" has gave monitor info
+[29.12.2023 05:53:10]    Server "test" starts executing command pxlcolor
+[29.12.2023 05:53:10]    Server "test" has gave color of pixel with coords: 12, 233
+[29.12.2023 05:53:14]    Client socket 127.0.0.1:39158 has closed
+[29.12.2023 05:55:59]    Server "test" starts listen on 192.168.0.103:65431
+[29.12.2023 05:56:18]    Client 192.168.0.104:43852 has connected to server "test"
+[29.12.2023 05:56:29]    Server "test" starts executing command help
+[29.12.2023 05:56:29]    Server "test" has gave help menu
+[29.12.2023 05:56:33]    Server "test" starts executing command moninfo
+[29.12.2023 05:56:33]    Server "test" has gave monitor info
+[29.12.2023 05:56:38]    Server "test" socket has closed
+[29.12.2023 05:56:43]    Client socket 192.168.0.104:43852 has closed
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 05:57:47]    Server "test" starts listen on 192.168.0.103:65431
+[29.12.2023 05:58:24]    Client 192.168.0.104:58048 has connected to server "test"
+[29.12.2023 05:58:31]    Server "test" starts executing command help
+[29.12.2023 05:58:31]    Server "test" has gave help menu
+[29.12.2023 05:58:40]    Server "test" starts executing command moninfo
+[29.12.2023 05:58:40]    Server "test" has gave monitor info
+[29.12.2023 05:58:52]    Server "test" starts executing command pxlcolor
+[29.12.2023 05:58:52]    Server "test" has gave color of pixel with coords: 123, 322
+[29.12.2023 05:58:58]    Client socket 192.168.0.104:58048 has closed
+[29.12.2023 05:59:17]    Client 192.168.0.104:46052 has connected to server "test"
+[29.12.2023 05:59:37]    Client 192.168.0.103:48034 has connected to server "test"
+[29.12.2023 05:59:51]    Server "test" starts executing command help
+[29.12.2023 05:59:51]    Server "test" has gave help menu
+[29.12.2023 06:00:58]    Server "test" starts executing command help
+[29.12.2023 06:00:58]    Server "test" has gave help menu
+[29.12.2023 06:01:01]    Client socket 192.168.0.104:46052 has closed
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 06:06:36]    Server "test" starts listen on 192.168.0.103:65431
+[29.12.2023 06:07:13]    Client 192.168.0.104:50938 has connected to server "test"
+[29.12.2023 06:07:16]    Client socket 192.168.0.104:50938 has closed
+
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 06:12:56]    Server "test" starts listen on 192.168.0.103:65431
+[29.12.2023 06:13:20]    Client 192.168.0.104:35000 has connected to server "test"
+[29.12.2023 06:13:24]    Server "test" starts executing command help
+[29.12.2023 06:13:24]    Server "test" has gave help menu
+[29.12.2023 06:13:32]    Server "test" starts executing command moninfo
+[29.12.2023 06:13:32]    Server "test" has gave monitor info
+[29.12.2023 06:14:05]    Server "test" starts executing command help
+[29.12.2023 06:14:05]    Server "test" has gave help menu
+[29.12.2023 06:14:17]    Server "test" starts executing command pxlcolor
+[29.12.2023 06:14:17]    Server "test" has gave color of pixel with coords: 1, 1
+[29.12.2023 06:14:33]    Server "test" starts executing command pxlcolor
+[29.12.2023 06:14:33]    Server "test" has gave color of pixel with coords: 1, 2
+[29.12.2023 06:15:07]    Server "test" starts executing command moninfo
+[29.12.2023 06:15:07]    Server "test" has gave monitor info
+[29.12.2023 06:15:41]    Server "test" starts executing command help
+[29.12.2023 06:15:41]    Server "test" has gave help menu
+[29.12.2023 06:15:44]    Client socket 192.168.0.104:35000 has closed
+[29.12.2023 06:16:07]    Client 192.168.0.104:54670 has connected to server "test"
+[29.12.2023 06:16:14]    Server "test" socket has closed
+[29.12.2023 06:16:17]    Client socket 192.168.0.104:54670 has closed
+
+----------------------------------------------------------------------------------------------------
+
+[29.12.2023 07:21:57]    Server "test" starts listen on 127.0.0.1:65431
